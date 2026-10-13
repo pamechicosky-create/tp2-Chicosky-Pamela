@@ -1,5 +1,6 @@
 # tp2-Chicosky-Pamela
-El proyecto aborda la dificultad de los consumidores para tomar decisiones informadas sobre su alimentación diaria, un problema vinculado directamente al aumento de patologías como la obesidad y la hipertensión.
-Si bien los sellos negros informan sobre los excesos de un producto individual, no permiten evaluar ni comparar alternativas de manera ágil. La aplicación soluciona esta necesidad ofreciendo una comparación rápida y objetiva entre alimentos para que el usuario elija la opción más adecuada para su salud.
+El proyecto aborda la dificultad de los consumidores para comparar de forma rápida y objetiva el perfil nutricional (específicamente el contenido de azúcares y calorías) entre diferentes categorías de productos alimenticios procesados. Destinada a nutricionistas, personas interesadas en cuidar su salud o consumidores en general para tomar decisiones al momento de planificar sus compras o su dieta diaria.
 
-Esta aplicación está destinada a aquellas personas que busquen mejorar su estilo de vida y para profesionales en la nutrición que busquen obtener este tipo de información de manera inmediata.
+La pregunta que guía el análisis es ¿Qué categoría de alimentos (por ejemplo, Lácteos, Snacks o Bebidas) presenta el mayor contenido promedio de azúcares y calorías entre los productos analizados?
+El programa genera una tabla resumen indicando el promedio de azúcares y calorías agrupado por categoría de alimentos, junto con el producto con mayor azúcar detectado. Esto se interpretará identificando qué grupo de alimentos aporta mayor cantidad de azúcares en promedio, permitiendo ver visualmente qué categoría concentra los valores más elevados.
+ALCANCE
